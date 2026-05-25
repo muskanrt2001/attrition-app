@@ -1,4 +1,4 @@
-streamlit==1.35.0
+streamlit==1.45.1
 pandas
 numpy
 joblib
@@ -10,3 +10,4 @@ catboost
 imbalanced-learn
 scikit-learn
 openpyxl
+pillow==11.2.1
